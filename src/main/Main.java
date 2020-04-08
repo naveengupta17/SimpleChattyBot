@@ -15,6 +15,7 @@ public class Main {
         stage3.countNumber();
         Stage4 stage4 = new Stage4();
         stage4.test();
+        stage4.end();
 
 
     }
