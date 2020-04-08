@@ -3,6 +3,7 @@ package main;
 import stage1.Stage1;
 import stage2.Stage2;
 import stage3.Stage3;
+import stage4.Stage4;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,6 +13,7 @@ public class Main {
         stage2.guessAge();
         Stage3 stage3 = new Stage3();
         stage3.countNumber();
+        Stage4 stage4 = new Stage4();
 
 
     }
