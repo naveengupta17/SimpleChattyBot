@@ -10,6 +10,7 @@ public class Main {
         Stage2 stage2 = new Stage2();
         stage2.guessAge();
 
+
     }
 
 }
