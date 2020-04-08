@@ -11,6 +11,7 @@ public class Main {
         Stage2 stage2 = new Stage2();
         stage2.guessAge();
         Stage3 stage3 = new Stage3();
+        stage3.countNumber();
 
 
     }
