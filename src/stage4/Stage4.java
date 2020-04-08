@@ -12,7 +12,14 @@ public class Stage4 {
         System.out.println("3. To determine the execution time of a program.");
         System.out.println("4. To interrupt the execution of a program.");
         boolean response = true;
-
+        while (response) {
+            int answer = scanner.nextInt();
+            if (answer == 2) {
+                break;
+            } else {
+                System.out.println("Please, try again.");
+            }
+        }
 
     }
 
